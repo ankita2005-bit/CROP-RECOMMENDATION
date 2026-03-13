@@ -1,9 +1,9 @@
 # CROP-RECOMMENDATION
-🌱 Crop Recommendation System
-📌 Overview
+Crop Recommendation System
+Overview
 The Crop Recommendation System is a machine learning–based project that suggests the most suitable crop to grow based on soil and environmental conditions. This helps farmers and agricultural planners make data-driven decisions to improve crop yield and sustainability.
 
-🎯 Objective
+Objective
 To recommend the best crop using parameters such as:
 Nitrogen (N)
 Phosphorus (P)
@@ -13,7 +13,7 @@ Humidity
 pH value
 Rainfall
 
-🧠 Technologies Used
+echnologies Used
 Python
 Jupyter Notebook
 Pandas
